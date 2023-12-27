@@ -1,3 +1,3 @@
- Hi, I’m @AlperenGokten
-I’m a student I’m Study at Tapu kadastro anadolu high school
+ Hi, I’m AlperenGokten
+I’m a student 
 <h4> Beginner of python software </h4>
